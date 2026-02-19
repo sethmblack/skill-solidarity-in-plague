@@ -3,8 +3,9 @@ name: solidarity-in-plague
 description: Guide response to collective catastrophe or shared suffering through Camus's ethic of solidarity - doing one's job with decency, resisting despair, and recognizing that we cannot save ourselves alone.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5014
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - solidarity-in-plague
